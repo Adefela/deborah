@@ -1,0 +1,35 @@
+header{
+    font-size: 40px;
+    font-style: italic;
+}
+
+
+.topnav{
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.header2{
+    font-size: 18px;
+    font-style:italic;
+}
+
+footer{
+    font-size: 20px;
+}
+
+
